@@ -1,7 +1,7 @@
 # action-xp-time
 > A self-service statistical tool for business  
 
-<img src="https://media2.giphy.com/media/f3jZ8moRBbEvNJjOtu/giphy.gif?cid=ecf05e472zvedh6hp53wa0hqxaf46bnnljx3a8wot1viuor7&rid=giphy.gif&ct=g" align="right" width="370">
+<img src="https://media2.giphy.com/media/f3jZ8moRBbEvNJjOtu/giphy.gif?cid=ecf05e472zvedh6hp53wa0hqxaf46bnnljx3a8wot1viuor7&rid=giphy.gif&ct=g" align="right" width="230">
 
 _**"How long should I run my A/B test?"**_ is asking a CRM Manager.  
 I remember how many time this question was resulting in too much inefficient workload for both side. Getting the different specifications from the business to finally run the famous `power.prop.test` function on R to compute either the sample size or the uplift we can detect.
@@ -53,9 +53,10 @@ Reference: [Sample Size Calculator: compare two proportions - Casagrande, Pike &
 
 ## How to deploy your webapp on Streamlit Community Cloud?
 
-<img src="https://media3.giphy.com/media/3o8doT5DaMjfH3paHC/giphy.gif?cid=ecf05e47z4e0d2uzm9tlllh7kpj2euzgrdmm1w9ds8iwxs3g&rid=giphy.gif&ct=g" align="right" width="500">
-
 You too also played with Streamlit and want to deploy your webapp so the whole world can enjoy your work? Noice.  
+
+<img src="https://media3.giphy.com/media/3o8doT5DaMjfH3paHC/giphy.gif?cid=ecf05e47z4e0d2uzm9tlllh7kpj2euzgrdmm1w9ds8iwxs3g&rid=giphy.gif&ct=g" align="right" width="350">
+
 Once your file containing all the streamlit UI functions is ready, let's call it `your_name_file.py`, you're good to follow those steps:  
 * Create a repository on GitHub for your webapp.  
 * Push `your_name_file.py` to your repository. Do not forget to create a `requirements.txt` file with all the required libraries for your project!  
